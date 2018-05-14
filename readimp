@@ -1,0 +1,5 @@
+put productlist.dat and userlist.dat in 
+=> documents-> netbeansProjects->"yourfolder"
+
+rest all the files in :
+=> documents-> netbeansProjects->"yourfolder"->src->"somefolder"
